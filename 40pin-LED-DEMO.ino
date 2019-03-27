@@ -1,3 +1,10 @@
+  /* ArduinoLCDHack(c) by Mark Paget
+
+  ArduinoLCDHack is licensed under a Creative Commons Attribution 3.0 Unported License. 
+  See <http://creativecommons.org/licenses/by/3.0/>
+
+  */
+
   // Prep data for following numbers: 8, 80, 0, 1, 2, 3, 5, 8, 13
   int thisMap[9][14]={ {6,5,12,13,19,7,2,3,8,4,11,9,10}, {2,3,8,11,9,10,6,5,18,7,12,13,19}, {6,5,12,13,19,7,2,3,8,11,9,10}, 
                         {6,5,12,13,19,7,8,9}, {6,5,12,13,19,7,2,8,4,11,10}, {6,5,12,13,19,7,2,8,4,9,10}, 
